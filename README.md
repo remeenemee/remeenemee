@@ -36,8 +36,7 @@ My Learning Progress
   <a href="https://ru.hexlet.io/u/remeneme">
     <img src="https://img.shields.io/badge/Hexlet-white?style=for-the-badge&logo=hexlet&logoColor=black" alt="LinkedIn Badge"/>
 </div>
---------------------------------
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    
 <!---
 remeenemee/remeenemee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
