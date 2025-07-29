@@ -4,8 +4,7 @@
   <img src="https://media2.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.gif?cid=ecf05e47fwh5kwiyxkp7xym3ubpxhrgkoho1tj1rhro97oso&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
-Future Python Backend Developer
---------------------------------
+
 
 ### 🌱 About Me
 - 🌍 I'm live in Kaliningrad, Russia
